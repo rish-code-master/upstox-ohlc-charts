@@ -1,0 +1,10 @@
+.chart {
+    width: 100%;
+}
+
+.prevNextBtnContainer {
+    background-color: #fff;;
+    height: 120px;
+    padding-top: 33px;
+    margin-bottom: 0px !important;
+}

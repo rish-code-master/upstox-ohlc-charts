@@ -1,0 +1,20 @@
+.live-chart {
+    height: calc(100vh - 240px);
+    display: block;
+    width: 100%;
+    background-color: #fff;
+}
+
+.subUnsubBtnContainer {
+    background-color: #fff;;
+    height: 120px;
+    padding-top: 33px;
+    margin-bottom: 0px !important;
+}
+
+.socket-status {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #007bff!important;
+}
