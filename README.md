@@ -17,5 +17,6 @@ Builds the app for production to the `build` folder.\
 
 ### Deployed on Heroku - Public URL
 
-### `http://my-upstox-app.herokuapp.com/`
+Open [http://my-upstox-app.herokuapp.com/](http://my-upstox-app.herokuapp.com/) to view it in the browser.
+
 
