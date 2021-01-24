@@ -15,3 +15,7 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 
+### Deployed on Heroku - Public URL
+
+### `http://my-upstox-app.herokuapp.com/`
+
